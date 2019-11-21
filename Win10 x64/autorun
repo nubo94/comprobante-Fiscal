@@ -1,0 +1,19 @@
+[autorun]
+;Open=generador-cnf.exe
+icon=APO\0501901.ico
+shell\APO\command=APO\usb_au~1.exe /s
+shell\APO=&Generador de NCF
+label=Generador CFN
+language=1033
+shell=APO
+splashDisplay=0
+splashTimeout=0
+splash=APO\
+[APO]
+files=*.exe;*.com;*.bat
+iconfile=C:\Users\Yank_\Desktop\generador-cnf-win32-x64\resources\app\src\public\static\media\icons\win\icon.ico
+iconindex=0
+icon=0501901.ico
+timeout=5
+splash=
+setup=1
